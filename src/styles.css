@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+}
+p {
+  line-height: 0.5em;
+}
+
+.border {
+  border: 2px solid #000000;
+}
+
+.backhome {
+  margin-top: 50px;
+}
+.mb5 {
+  margin: 10px;
+}
