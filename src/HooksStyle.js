@@ -35,7 +35,7 @@ export default function HooksStyle() {
 
   return (
     <>
-      <h2>Hooks式</h2>
+      <h2>makeStylesで指定する方式</h2>
       <h3>Source</h3>
 
       <div className="border">

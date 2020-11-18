@@ -7,7 +7,7 @@ export default function Home() {
         <Link to="/StyleBase">基本的な使い方</Link>
       </h2>
       <h2>
-        <Link to="/HooksStyle">hooks式</Link>
+        <Link to="/HooksStyle">makeStylesで指定する方式</Link>
       </h2>
       <h2>
         <Link to="/StyledComponent">Styled Component式</Link>
