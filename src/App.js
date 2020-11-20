@@ -6,6 +6,7 @@ import StyleBase from "./StyleBase";
 import HooksStyle from "./HooksStyle";
 import StyledComponent from "./StyledComponent";
 import ThemeProviderSample from "./ThemeProviderSample";
+import MaterialUiLogin from "./MaterialUiLogin";
 
 export default function App() {
   return (
@@ -18,6 +19,7 @@ export default function App() {
           <Route path="/HooksStyle" component={HooksStyle} />
           <Route path="/StyledComponent" component={StyledComponent} />
           <Route path="/ThemeProviderSample" component={ThemeProviderSample} />
+          <Route path="/MaterialUiLogin" component={MaterialUiLogin} />
         </div>
       </Router>
     </div>
